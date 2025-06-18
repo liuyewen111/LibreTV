@@ -24,7 +24,7 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 ## 📌 关于本仓库说明
 
-此仓库是 Fork 自 [willow-god](https://github.com/LibreSpark) 的 [LibreTV](https://github.com/LibreSpark/LibreTV) 项目。
+此仓库是 Fork 自 [LibreSpark](https://github.com/LibreSpark) 的 [LibreTV](https://github.com/LibreSpark/LibreTV) 项目。
 
 ## 🙏 支持原项目
 如果你觉得这个项目有帮助，请：
