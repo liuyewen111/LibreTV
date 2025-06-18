@@ -22,6 +22,20 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 - **[YXVM](https://yxvm.com)**  
 - **[ZMTO/VTEXS](https://zmto.com)**
 
+## 📌 关于本仓库说明
+
+此仓库是 Fork 自 [willow-god](https://github.com/LibreSpark) 的 [LibreTV](https://github.com/LibreSpark/LibreTV) 项目。
+
+## 🙏 支持原项目
+如果你觉得这个项目有帮助，请：
+
+- 前往 👉 [原仓库主页](https://github.com/LibreSpark/LibreTV)
+- ⭐️ 给原作者点个 Star
+- 考虑 Fork 原仓库进行支持
+
+💡 本 Fork 仓库可能包含个人修改，但不保证及时同步原仓库更新。
+建议直接使用原版获取最新功能和修复。
+
 ## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
